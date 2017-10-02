@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SODING</string>
+
+    <string name="add_new_user">Add a new User</string>
+    <string name="users_description">Users Description</string>
+    <string name="enter_users_details">Enter Users Details</string>
+    <string name="add_user">Add User</string>
+    <string name="view_employees">View Employees</string>
+    <string name="edit_user">Edit User</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="user_name">User Name</string>
+</resources>
